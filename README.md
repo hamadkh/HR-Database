@@ -2,20 +2,20 @@
 
 Quick MySQL HR Database.
 
-Features
+# Features 
 
--create statements
+create statements
 
--insert statements
+insert statements
 
--views 
+views 
 
--calculate avg,min,max
+calculate avg,min,max
 
--ER-digram
+ER-digram
 
--random data over 50 records for all tables for testing purposes
+random data over 50 records for all tables for testing purposes
 
-Tables
+# Tables
 
 Employee, Location, role,Skill, Scale, EmployeeSkill, VacantPosition, PositionSkill.  
