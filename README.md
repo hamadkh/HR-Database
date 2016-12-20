@@ -1,6 +1,6 @@
 # HR-Database
 
-Small MySQL HR Database with 8 tables, views and random queries.
+Quick MySQL HR Database.
 
 Features
 
@@ -12,3 +12,10 @@ Features
 
 -calculate avg,min,max
 
+-ER-digram
+
+-random data over 50 records for all tables for testing purposes
+
+Tables
+
+Employee, Location, role,Skill, Scale, EmployeeSkill, VacantPosition, PositionSkill.  
